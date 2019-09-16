@@ -14,4 +14,4 @@ In VR/AR version it would look like actual transfer between dimensions - you'd s
 ## Visual Inspiration 
 
 - color themes
-- minimal selection until 3rd dimension kicks in
+- minimal scheme selection until 3rd dimension kicks in
