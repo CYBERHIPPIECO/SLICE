@@ -8,3 +8,10 @@ Game based on living as a 2D character trying to breach into the 3rd dimension. 
 - lines change lengths as the 3d objects move through 2-dimensional space.
 
 In VR/AR version it would look like actual transfer between dimensions - you'd suddenly start seeing monumental 3d objects as you explore the lines (get closer to them).
+
+## Notes
+
+## Visual Inspiration 
+
+- color themes
+- minimal selection until 3rd dimension kicks in
