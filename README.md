@@ -11,7 +11,11 @@ In VR/AR version it would look like actual transfer between dimensions - you'd s
 
 ## Notes
 
+Ironically just realized that in season 3 of Agents of Shield, Fitz presents exactly this notion.
+
 ## Visual Inspiration 
 
 - color themes
 - minimal scheme selection until 3rd dimension kicks in
+
+
